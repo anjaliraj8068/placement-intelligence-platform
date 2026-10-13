@@ -36,5 +36,3 @@ def create_students_table():
     connection.close()
 
     print("Database and students table are ready!")
-    if __name__ == "__main__":
-     create_students_table()
